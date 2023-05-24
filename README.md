@@ -4,7 +4,7 @@ This is a Python application that includes an OPC-UA server and client control f
 
 [![Demo Video](https://img.youtube.com/vi/_bI4E2RvG0o/maxresdefault.jpg)](https://www.youtube.com/watch?v=_bI4E2RvG0o)
 
-**[Watch the Demo Video]([https://youtu.be/_bI4E2RvG0o])**
+**[Watch the Demo Video](https://www.youtube.com/watch?v=_bI4E2RvG0o)**
 
 ## Features
 
