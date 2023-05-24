@@ -14,7 +14,7 @@ class MainApp(QtWidgets.QMainWindow):
         self.ui = uic.loadUi('OpcuaServer.ui',self)
 
         self.server = Server()
-        self.url = "opc.tcp://192.168.2.90:62829"
+        self.url = "opc.tcp://111.111.1.11:1111"
         self.temp = False
         self.pres = False
         self.connect = False
