@@ -2,7 +2,7 @@
 
 This is a Python application that includes an OPC-UA server and client control functionality. The server side runs on an Ubuntu OS PC, while the client side runs on a Windows 10 PC. The server periodically updates values at a rate of 0.1 seconds and displays them on the Human-Machine Interface (HMI) developed using PyQt5 (or PySide6). The client side can control the server by sending commands over the OPC-UA protocol.
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/_bI4E2RvG0o)
+[![Demo Video](https://youtu.be/_bI4E2RvG0o)](https://youtu.be/_bI4E2RvG0o)
 
 **[Watch the Demo Video]([https://youtu.be/_bI4E2RvG0o])**
 
