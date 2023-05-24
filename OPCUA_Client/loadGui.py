@@ -14,7 +14,7 @@ class MainApp(QtWidgets.QMainWindow):
         QtWidgets.QMainWindow.__init__(self)
         self.ui = uic.loadUi('OpcuaClient.ui',self)
 
-        self.url = "opc.tcp://192.168.0.13:4840"
+        self.url = "opc.tcp://111.111.11.11:1111"
 
         self.tempbar = QRoundProgressBar()
         self.tempbar.setFixedSize(400, 400)
