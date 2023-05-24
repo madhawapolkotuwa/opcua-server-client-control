@@ -32,14 +32,20 @@ This is a Python application that includes an OPC-UA server and client control f
 2. Install the required Python packages using pip:
 
    ```bash
-   pip install -r requirements.txt
+   linux
+   sudo apt-get install python3-pyqt5
+   sudo apt-get install python3-opcua
+   
+   windows
+   pip install pyqt5
+   pip install opcua
    ```
 
 ## Usage
 
 1. Server-side:
 
-   - Run the OPC-UA server on the Ubuntu OS PC:
+   - Run the OPC-UA server on the linux/windows PC:
 
      ```bash
      python serverMain.py
@@ -47,7 +53,7 @@ This is a Python application that includes an OPC-UA server and client control f
 
 2. Client-side:
 
-   - Run the OPC-UA client on the Windows 10 PC:
+   - Run the OPC-UA client on the linux/Windows PC:
 
      ```bash
      python clientMain.py
@@ -59,7 +65,7 @@ This is a Python application that includes an OPC-UA server and client control f
 
 ## Demo Video
 
-Check out the [demo video](https://youtu.be/_bI4E2RvG0o) to see the OPC-UA server and client control application in action.
+Check out the [demo video](https://www.youtube.com/watch?v=_bI4E2RvG0o) to see the OPC-UA server and client control application in action.
 
 ## License
 
@@ -71,7 +77,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 
 ## Contact
 
-For any questions or inquiries, please contact [Madhawa Polkotuwa](mailto:your-madhawapolkotuwa@gmail.com).
+For any questions or inquiries, please contact [Madhawa Polkotuwa](mailto:madhawapolkotuwa@gmail.com).
 
 ---
 
